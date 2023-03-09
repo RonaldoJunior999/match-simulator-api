@@ -8,12 +8,12 @@
         "mandante": {
             "nome": "Brasil",
             "forca": 5,
-            "imagem": "LINK"
+            "imagem": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg"
         },
         "visitante": {
             "nome": "Argentina",
             "forca": 5,
-            "imagem": "LINK"
+            "imagem": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/01/bandeira-da-argentina.jpg"
         }
     }
 ]
